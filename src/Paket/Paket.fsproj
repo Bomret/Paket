@@ -35,7 +35,7 @@
     <StartArguments>install</StartArguments>
     <StartAction>Project</StartAction>
     <StartProgram>paket.exe</StartProgram>
-    <StartWorkingDirectory>d:\code\pakettest</StartWorkingDirectory>
+    <StartWorkingDirectory>d:\code\RegexProvider</StartWorkingDirectory>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
